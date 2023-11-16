@@ -1,0 +1,25 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    text-align: center;
+    border-radius: 1rem;
+}
+.little-lemon{
+    color: #F4CE14;
+}
+.state{
+    color: #fff
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color:#495E57;
+
+}
+nav{
+    background-color:#495E57;
+
+}

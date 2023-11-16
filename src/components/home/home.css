@@ -1,0 +1,9 @@
+h2{
+    text-align: center;
+}
+.home{
+    background-color: #F4CE14;
+    width: 50%;
+    margin: 2rem auto;
+    border-radius: 2rem;
+}
